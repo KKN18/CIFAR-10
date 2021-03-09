@@ -1,1 +1,1 @@
-# CIFAR-10 (proceeding.._
+# CIFAR-10 (Proceeding..)
